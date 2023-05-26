@@ -6,7 +6,7 @@ div.container{
 	background-color:black;
 	
 }
-div.square{
+.square{
 	width:20px;
 	height:20px;
 	margin:2px;
@@ -15,5 +15,5 @@ div.square{
 }
 
 .square:hover{
-	background-color: rgb(29, 29, 40);
+	background-color:orange;
 }
