@@ -15,5 +15,5 @@ div.square{
 }
 
 .square:hover{
-	background-color: orange;
+	background-color: rgb(29, 29, 40);
 }
