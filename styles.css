@@ -6,7 +6,7 @@ div.container{
 	background-color:black;
 	
 }
-.square{
+div.square{
 	width:20px;
 	height:20px;
 	margin:2px;
@@ -14,6 +14,6 @@ div.container{
 	transition:background-color 1s ease-out 1ms;
 }
 
-.square:hover{
+div.square:hover{
 	background-color:orange;
 }
