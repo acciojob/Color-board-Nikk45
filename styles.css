@@ -10,7 +10,7 @@ div.container{
 	width:20px;
 	height:20px;
 	margin:2px;
-	background-color:rgb(29, 29, 29);
+	background-color:#1d1d1d;
 	transition:background-color 1s ease-out 1ms;
 }
 
