@@ -11,9 +11,9 @@ div.square{
 	height:20px;
 	margin:2px;
 	background-color:#1d1d1d;
-	transition:background-color 1s ease-out 1ms;
+	transition:background-color 4s ease-out 1ms;
 }
-
-div.square:hover{
+.square:hover{
 	background-color:orange;
 }
+
